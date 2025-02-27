@@ -3,8 +3,8 @@
      "skills": "Skills",
      "projects": "Projects",
      "hire_me": "Hire Me",
-     "name": "Samet Rozgar",
-     "description": "I am a senior Software Engineering student at Celal Bayar University. Previously, I worked as a freelance front-end developer, gaining experience in WordPress, React, and PHP. To further enhance my skills, I completed a 6-month Full-Stack Web Development training at Workintech. I am continuously improving myself in both front-end and back-end technologies to become a well-rounded developer.",
+     "name": "Ecemnur Akatmaci",
+     "description": "I am a senior Software Engineering student at Celal Bayar University. To further enhance my skills, I completed a 6-month Full-Stack Web Development training at Workintech. I am continuously improving myself in both front-end and back-end technologies to become a well-rounded developer.",
      "resume": "Resume",
      "github": "GitHub",
 
@@ -14,7 +14,7 @@
      "light":"Light",
      "change_language": "Turkish",
      "title": "Full-Stack Web Developer",
-     "birth_date": "30/06/2001",
+     "birth_date": "14/03/2002",
      "birth_date_words": "Birth Date",
      "city": "Manisa, Turkey",
      "city_words": "City",
@@ -30,7 +30,6 @@
      "email": "Email",
      "phone": "Phone",
      "address": "Address",
-     "projext_1_desc":"Game Of Thrones Fan Page",
      "languages": "Languages",
      "technologies": "Technologies",
      "frameworks": "Frameworks",
@@ -48,31 +47,30 @@
          "description": "React.js is a popular JavaScript library for building user interfaces, focusing on component-based architecture."
        },
        {
-         "name": "Node.js",
-         "description": "Node.js is a runtime environment that allows executing JavaScript code outside the browser, commonly used for backend development."
-       }
+        "name": "Html/Css",
+        "description": "Html/Css is a powerful programming language used for creating interactive and dynamic web applications."
+      }
+      
      ],
     
-     "project1_title": "Game Of Thrones Fan Page",
-     "project1_desc": "A 3D interactive website built using HTML, CSS, Three.js, and Blender, featuring animated dragon models and immersive environments.",
-     "project2_title": "Digital Hippo",
-     "project2_desc": "A digital marketplace platform developed with TypeScript, Payload CMS, and tRPCX for seamless e-commerce transactions.",
-     "project3_title": "Animated 3D Store Page",
-     "project3_desc": "An e-commerce store with 3D animated product displays, built using Three.js and React, featuring real-time interactive shopping experience."
+     "project1_title": "Code Makes You Hungry Pizza Makes You Full",
+     "project1_desc": "A project created using HTML, CSS, JavaScript.",
+     "project2_title": "Todo-App",
+     "project2_desc": "A project created using HTML, CSS, JavaScript."
    },
    "tr": {
      "skills": "Yetenekler",
      "projects": "Projeler",
      "hire_me": "Beni İşe Al",
-     "name": "Samet Rozgar",
-     "description": "Celal Bayar Üniversitesi Yazılım Mühendisliği son sınıf öğrencisiyim. Daha önce serbest bir ön uç geliştirici olarak çalışarak WordPress, React ve PHP konularında deneyim kazandım. Becerilerimi daha da geliştirmek için Workintech'te 6 aylık Full-Stack Web Geliştirme eğitimini tamamladım. Çok yönlü bir geliştirici olmak için hem ön uç hem de arka uç teknolojilerinde kendimi sürekli geliştiriyorum.",
+     "name": "Ecemnur Akatmacı",
+     "description": "Celal Bayar Üniversitesi Yazılım Mühendisliği son sınıf öğrencisiyim. Becerilerimi daha da geliştirmek için Workintech'te 6 aylık Full-Stack Web Geliştirme eğitimini tamamladım. Çok yönlü bir geliştirici olmak için hem ön uç hem de arka uç teknolojilerinde kendimi sürekli geliştiriyorum.",
      "resume": "Özgeçmiş",
      "github": "GitHub",
      "linkedin": "LinkedIn",
      "change_theme": "Temayı Değiştir",
      "change_language": "English",
      "title": "Full-Stack Web Geliştirici",
-     "birth_date": "30/06/2001",
+     "birth_date": "14/03/2002",
      "dark":"Koyu",
      "light":"Açık",
      "birth_date_words": "Doğum Tarihi",
@@ -97,7 +95,7 @@
      "hobbies": "Hobiler",
      "soft_skills": "Kişisel Beceriler",
      "work_experience": "İş Deneyimi",
-     "projext_1_desc":"Game Of Thrones Fan Sayfası",
+     
 
      "skills_list": [
        {
@@ -109,17 +107,16 @@
          "description": "React.js, bileşen tabanlı mimariye odaklanan popüler bir JavaScript kütüphanesidir ve kullanıcı arayüzleri geliştirmek için kullanılır."
        },
        {
-         "name": "Node.js",
-         "description": "Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağlayan bir çalışma ortamıdır ve genellikle arka uç geliştirme için kullanılır."
-       }
+        "name": "Html/Css",
+        "description": "Html/Css, etkileşimli ve dinamik web uygulamaları oluşturmak için kullanılan güçlü bir programlama dilidir."
+      }
      ],
     
-     "project1_title": "Game Of Thrones Hayran Sayfası",
-     "project1_desc": "HTML, CSS, Three.js ve Blender kullanılarak oluşturulmuş, animasyonlu ejderha modelleri ve sürükleyici ortamlar içeren 3D interaktif bir web sitesi.",
-     "project2_title": "Digital Hippo",
-     "project2_desc": "TypeScript, Payload CMS ve tRPCX kullanılarak geliştirilmiş, kesintisiz e-ticaret işlemleri sunan dijital pazar yeri platformu.",
-     "project3_title": "Animasyonlu 3D Mağaza Sayfası",
-     "project3_desc": "Ürünlerin 3D animasyonlu olarak sunulduğu, Three.js ve React ile geliştirilen gerçek zamanlı interaktif alışveriş deneyimi sağlayan e-ticaret sitesi."
+     "project1_title": "Kod Acıktırır Pizza Doyurur",
+     "project1_desc": "HTML, CSS, JavaScript kullanarak oluşturulmuş bir proje.",
+     "project2_title": "Yapılacaklar Uygulaması",
+     "project2_desc": "HTML, CSS, JavaScript kullanarak oluşturulmuş bir proje."
+     
    }
  }
  

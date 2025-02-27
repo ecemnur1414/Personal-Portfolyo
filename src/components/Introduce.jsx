@@ -2,7 +2,7 @@ import React from "react";
 import "./introduce.css";
 import { useContext } from "react";
 import { ContextLanguage } from "../context/LanguageContexts";
-import myImage from "../assets/img/profile.jpeg";
+import myImage from "../assets/img/profile.jpg";
 
 const Introduce = () => {
   const { content } = useContext(ContextLanguage);
@@ -24,14 +24,14 @@ const Introduce = () => {
           </a>
           <a
             className="introduce-btn"
-            href="https://github.com/SametRozgar"
+            href="https://github.com/ecemnur1414"
             target="blank"
           >
             {content.github}
           </a>
           <a
             className="introduce-btn"
-            href="https://www.linkedin.com/in/abd%C3%BClsamet-r%C3%B6zgar-31880122a/"
+            href="https://www.linkedin.com/in/ecem-akatmac%C4%B1/"
             target="blank"
           >
             {content.linkedin}

@@ -2,9 +2,9 @@ import React, { useContext } from 'react';
 import "./projects.css";
 import { ContextLanguage } from '../context/LanguageContexts';
 import useDarkMode from '../hooks/useDarkMode';
-import image1 from "../assets/img/image.png";
-import image2 from "../assets/img/project.jpeg";
-import image3 from "../assets/img/projects-2.jpeg";
+import image1 from "../assets/img/project.png";
+import image2 from "../assets/img/project-2.png";
+
 
 const Projects = () => {
   const { content } = useContext(ContextLanguage);
@@ -16,8 +16,8 @@ const Projects = () => {
       title: content.project1_title,
       description: content.project1_desc,
       image: image1,
-      tags: ["HTML", "CSS", "Three.js", "Blender"],
-      github: "https://github.com/SametRozgar/Game-Of-Thrones-Imdb-Page-With-3D-Dragon-Model",
+      tags: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/ecemnur1414/pizza-challenge",
       live: "#"
     },
     {
@@ -25,19 +25,11 @@ const Projects = () => {
       title: content.project2_title,
       description: content.project2_desc,
       image: image2,
-      tags: ["TypeScript", "Payload", "tRPCX"],
-      github: "https://github.com/SametRozgar/Digital-Hippo",
+      tags: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/ecemnur1414/Todo-App",
       live: "#"
     },
-    {
-      id: 3,
-      title: content.project3_title,
-      description: content.project3_desc,
-      image: image3,
-      tags: ["React", "Three.js", "3D Models"],
-      github: "https://github.com/SametRozgar/Animated-3D-iPhone-16-Cart-Desgin",
-      live: "#"
-    }
+    
   ];
 
   return (

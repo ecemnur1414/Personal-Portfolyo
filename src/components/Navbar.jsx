@@ -25,7 +25,7 @@ const Navbar = () => {
   return (
     <nav className={`navbar ${isDarkMode ? "dark" : ""}`}>
       <div className="navbar-container">
-        <div className="navbar-name">A</div>
+        <div className="navbar-name">E</div>
 
         {/* Hamburger Menü Butonu */}
         <button className="menu-icon" onClick={toggleMenu}>
